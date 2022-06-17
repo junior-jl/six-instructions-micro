@@ -1,3 +1,3 @@
-# Micro6Vahid
+# micro-six-instructions
 
-Microprocessador de 6 instruções descrito com VHDL baseado no capítulo 8 do VAHID.
+Six instructions microprocessor written in VHDL based on VAHID example (chapter 8)
